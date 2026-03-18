@@ -34,6 +34,9 @@ Spine is not just a tool — it’s a movement toward intelligent orchestration.
    ↓
 [ InfraOps | DataOps | FeatureOps | MLOps | LLMOps ]
 
+<img width="1536" height="1024" alt="Spine meta-orchestra" src="https://github.com/user-attachments/assets/d5002477-ff7f-4853-95ec-86fedb122168" />
+
+
 
 Spine sits at the top, coordinating all orchestrators across the full AI/ML stack.
 
