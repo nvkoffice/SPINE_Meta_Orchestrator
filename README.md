@@ -3,7 +3,7 @@
 🧠 SPINE: The Meta-Orchestrator for AI/ML Workflows
 Spine is a visionary open-source project that reimagines orchestration across the entire AI/ML lifecycle. It acts as the backbone of modern machine learning infrastructure — intelligently coordinating existing orchestrators like Airflow, Ray, Kubeflow, LangChain, LangGraph, MLflow, and more.
 
-<img width="897" height="356" alt="image" src="https://github.com/user-attachments/assets/492d4645-ec4d-45f0-8d7c-5cc25a1f4883" />
+<img width="1536" height="1024" alt="Spine meta-orchestra" src="https://github.com/user-attachments/assets/d5002477-ff7f-4853-95ec-86fedb122168" />
 
 
 🚀 Why Spine?
@@ -34,7 +34,7 @@ Spine is not just a tool — it’s a movement toward intelligent orchestration.
    ↓
 [ InfraOps | DataOps | FeatureOps | MLOps | LLMOps ]
 
-<img width="1536" height="1024" alt="Spine meta-orchestra" src="https://github.com/user-attachments/assets/d5002477-ff7f-4853-95ec-86fedb122168" />
+
 
 
 
